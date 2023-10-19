@@ -1,0 +1,16 @@
+.titleText{
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.text {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.buttonRow{
+    display: flex;
+    gap: 10px;
+}
